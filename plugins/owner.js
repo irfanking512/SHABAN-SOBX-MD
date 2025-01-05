@@ -29,8 +29,8 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *SHABAN-SOBX-MD* 〕━━┈⊷
+            image: { url: 'https://i.ibb.co/rbRfhpd/file-6273.jpg' }, // Image URL from your request
+            caption: `╭━━〔 *𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -53,7 +53,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/contact.m4a' }, // Audio URL
+            audio: { url: 'https://i.ibb.co/rbRfhpd/file-6273.jpg' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
