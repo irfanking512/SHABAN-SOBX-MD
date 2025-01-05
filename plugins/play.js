@@ -17,7 +17,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━━━〔 *SHABAN-SOBX-MD* 〕━━━┈⊷
+let desc = `╭━━━〔 *𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ┃▸└───────────···๏
@@ -32,7 +32,7 @@ let desc = `╭━━━〔 *SHABAN-SOBX-MD* 〕━━━┈⊷
 ┃▸┃๏ *Ago* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ Sʜᴀʙᴀɴ ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 ♡*`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
 //download audio
@@ -80,7 +80,7 @@ let des = `╭━━━〔 *SHABAN-SOBX-MD* 〕━━━┈⊷
 ┃▸┃๏ *Ago* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ Sʜᴀʙᴀɴ ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 ♡*`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
 //download video
