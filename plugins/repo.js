@@ -29,7 +29,7 @@ https://wa.me/+923261761538`;
             contextInfo: { 
                 mentionedJid: [m.sender], 
                 forwardingScore: 999, 
-                isForwarded: false, 
+                isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363358310754973@newsletter', 
                     newsletterName: 'Mʀ-Sʜᴀʙᴀɴ', 
@@ -46,7 +46,7 @@ https://wa.me/+923261761538`;
             contextInfo: { 
                 mentionedJid: [m.sender], 
                 forwardingScore: 999, 
-                isForwarded: false, 
+                isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363358310754973@newsletter', 
                     newsletterName: 'Mʀ-Sʜᴀʙᴀɴ', 
