@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 🔗 *URL*: ${summary.content_urls.desktop.page}
 
-> @ Pᴏᴡᴇʀᴇᴅ Bʏ Mʀ Sʜᴀʙᴀɴ `;
+> @ Pᴏᴡᴇʀᴇᴅ Bʏ 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 `;
 
         // Send the reply with the thumbnail image
         await conn.sendMessage(from, { image: { url: summary.originalimage.source }, caption: replyText }, { quoted: mek });
