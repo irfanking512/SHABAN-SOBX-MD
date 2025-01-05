@@ -12,24 +12,24 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `*Hello there SHABAN-SOBX-MD User! 👋🏻* 
+        let dec = `*Hello there 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 User! 👋🏻* 
 
-> Simple , Straight Forward But Loaded With Features 🎊, Meet SHABAN-SOBX-MD WhatsApp Bot.
+> Simple , Straight Forward But Loaded With Features 🎊, Meet 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 WhatsApp Bot.
 
-*Thanks for using SHABAN-SOBX-MD 🇵🇰* 
+*Thanks for using 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 🇵🇰* 
 
-> Don't forget to frok the repo ⤵️
+> contact 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 ⤵️
 
-https://github.com/MRSHABAN40/SHABAN-SOBX-MD`;
+https://wa.me/+923261761538`;
 
         // Send image with caption
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` }, 
+            image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` }, 
             caption: dec, 
             contextInfo: { 
                 mentionedJid: [m.sender], 
                 forwardingScore: 999, 
-                isForwarded: true, 
+                isForwarded: false, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363358310754973@newsletter', 
                     newsletterName: 'Mʀ-Sʜᴀʙᴀɴ', 
@@ -40,13 +40,13 @@ https://github.com/MRSHABAN40/SHABAN-SOBX-MD`;
 
         // Send audio with contextInfo
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/repo.m4a' },
+            audio: { url: 'https://i.ibb.co/rbRfhpd/file-6273.jpg' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
                 mentionedJid: [m.sender], 
                 forwardingScore: 999, 
-                isForwarded: true, 
+                isForwarded: false, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363358310754973@newsletter', 
                     newsletterName: 'Mʀ-Sʜᴀʙᴀɴ', 
