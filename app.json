@@ -1,8 +1,8 @@
 {
   "name": "SHABAN-SOBX-MD",
-  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
-  "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
-  "keywords": ["sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ"],
+  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀",
+  "logo": "https://i.ibb.co/rbRfhpd/file-6273.jpg",
+  "keywords": ["𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-SOBX-MD"
+      "value": "𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀"
     }, 
       
     "PREFIX": {
@@ -73,27 +73,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜs Sᴇᴇɴ Bʏ ᯽Sʜᴀʙᴀɴ-Sᴏʙx-Mᴅ᯽*"
+      "value": "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜs Sᴇᴇɴ Bʏ ᯽𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀᯽*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ Sʜᴀʙᴀɴ"
+      "value": "𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "923261761538"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-SOBX-MD"
+      "value": "𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀"
 
       }, 
 
