@@ -46,7 +46,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -64,7 +64,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/sigma.m4a' },
+            audio: { url: 'https://i.ibb.co/rbRfhpd/file-6273.jpg' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
@@ -120,7 +120,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -198,7 +198,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -263,7 +263,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -322,7 +322,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -374,7 +374,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -482,7 +482,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -551,7 +551,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -601,7 +601,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg` },
+                image: { url: `https://i.ibb.co/rbRfhpd/file-6273.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
